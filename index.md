@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Facial Recognition: FaceGate
 
-You can use the [editor on GitHub](https://github.com/SharpClaw007/FaceGate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![0B1005A9-BF51-416A-90B9-A2DEC7210C6A](https://user-images.githubusercontent.com/30840579/114568113-7a11fc00-9c39-11eb-9987-6e6cc99de063.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## OVERVIEW
 
-### Markdown
+FaceGate is a visual identification and tracking solution that aims to bring cutting edge technology to end-user applications within professional business environments. FaceGate not only automates previously manual tasks, but provides digital backups to valuable surveillance data while enabling enterprise scaling for cooporate applications. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## GOALS
 
-```markdown
-Syntax highlighted code block
+* Enable the visual identification and tracking of users through machine learning algorithms.
 
-# Header 1
-## Header 2
-### Header 3
+* Automate logging and general entry tasks from human employees to central company databases.
 
-- Bulleted
-- List
+## SPECIFICATIONS
 
-1. Numbered
-2. List
+FaceGate systems are highly customizable to fit the needs of the end user, but each solution consists of 3 standard components:
 
-**Bold** and _Italic_ and `Code` text
+1. Central PC to process sensor data, as well as push logs and visual records to a centralized database.
+2. Camera to capture visual data, which is pushed to the central PC for further processing.
+3. Small device manager that takes instructions from the central PC, and can perform tasks such as opening and closing entryways, prompting users for more information, etc.
 
-[Link](url) and ![Image](src)
-```
+## Licensing
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Under GNU General Public License Version 2.0, this program is avaliable for personal use only.*
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SharpClaw007/FaceGate/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more information regarding deployment, adoption, modification, or general questions, please contact **juanquiviri@gmail.com**
