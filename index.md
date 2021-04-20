@@ -25,6 +25,8 @@ FaceGate systems are highly customizable to fit the needs of the end user, but e
 
 ![2E558903-24EB-4DB6-A0CE-9063E455E103](https://user-images.githubusercontent.com/30840579/115419854-46e2e600-a1c0-11eb-9e38-f9799818d8d8.jpeg)
 
+![2BBFD9A3-D302-49EA-8FC8-7AD44AC1EB5E](https://user-images.githubusercontent.com/30840579/115424349-40ef0400-a1c4-11eb-9138-992e19ed0c06.jpeg)
+
 
 ## Licensing
 
