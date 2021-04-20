@@ -2,7 +2,7 @@
 
 ![0B1005A9-BF51-416A-90B9-A2DEC7210C6A](https://user-images.githubusercontent.com/30840579/114568113-7a11fc00-9c39-11eb-9987-6e6cc99de063.jpeg)
 
-**NOTICE: FaceGate is under active development for the time being; updates will be pushed regularly to this repository. Expected v1.0 release date around Q3 2021. FaceGate is designed for primarily educational environments, so terminology such as "students", "teachers", and "administration" may be used. However, the FaceGate system is not exclusive to this application, and can be modified.to suit the needs of the end-user.**
+**NOTICE: FaceGate is under active development for the time being; updates will be pushed regularly to this repository. Expected v1.0 release date around Q3 2021. FaceGate is designed for primarily educational environments, so terminology such as "students", "teachers", and "administration" may be used. However, the FaceGate system is not exclusive to this application, and can be modified to suit the needs of the end-user.**
 
 ## OVERVIEW
 
