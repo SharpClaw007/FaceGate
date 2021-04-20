@@ -22,6 +22,10 @@ FaceGate systems are highly customizable to fit the needs of the end user, but e
 2. Camera to capture visual data, which is pushed to the central PC for further processing.
 3. Small device manager that takes instructions from the central PC, and can perform tasks such as opening and closing entryways, prompting users for more information, etc.
 
+![4FC3425D-BCF5-4FE1-A782-E40D503973A8](https://user-images.githubusercontent.com/30840579/115424221-1bfa9100-a1c4-11eb-8d37-c83b756dacab.jpeg)
+
+![719C66A1-31C5-487B-AAB4-C61743965E8C](https://user-images.githubusercontent.com/30840579/115424259-24eb6280-a1c4-11eb-8220-72f178925b33.jpeg)
+
 ## Licensing
 
 *Under GNU General Public License Version 2.0, this program is avaliable for personal use only.*
