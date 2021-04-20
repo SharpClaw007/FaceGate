@@ -19,8 +19,7 @@ FaceGate is a visual identification and tracking solution that aims to bring cut
 FaceGate systems are highly customizable to fit the needs of the end user, but each solution consists of 3 standard components:
 
 1. Central PC to process sensor data, as well as push logs and visual records to a centralized database.
-2. Camera to capture visual data, which is pushed to the central PC for further processing.![2C0305F1-40DC-4123-BCF0-558D0DCC9B62](https://user-images.githubusercontent.com/30840579/115419818-3f234180-a1c0-11eb-9e9f-7bd3e6e59c63.jpeg)
-
+2. Camera to capture visual data, which is pushed to the central PC for further processing.
 3. Small device manager that takes instructions from the central PC, and can perform tasks such as opening and closing entryways, prompting users for more information, etc.
 
 
