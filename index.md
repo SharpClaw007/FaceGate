@@ -28,6 +28,9 @@ FaceGate systems are highly customizable to fit the needs of the end user, but e
 **System diagram chart categorizing each component of the system.**
 ![52881412-DA1E-4001-A6FD-A1B838CC1E0B](https://user-images.githubusercontent.com/30840579/115437136-6e8e7a00-a1d1-11eb-8fbe-ea0152f9e225.jpeg)
 
+**Flowchart of data process, with physcial depiction below.**
+![96E72575-3384-4A43-AC04-77FC55B4E8CB](https://user-images.githubusercontent.com/30840579/115578026-85dd6e00-a28a-11eb-899e-e765c2283354.png)
+
 **Early phase v0.1 GUI interface preliminary concept.**
 ![7A03015E-774F-4A9B-B80A-7AC8064BB808](https://user-images.githubusercontent.com/30840579/115437175-79e1a580-a1d1-11eb-9fe4-fc8cd8faf0ef.jpeg)
 
