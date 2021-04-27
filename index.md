@@ -31,6 +31,9 @@ FaceGate systems are highly customizable to fit the needs of the end user, but e
 **Flowchart of data process, with physcial depiction below.**
 ![96E72575-3384-4A43-AC04-77FC55B4E8CB](https://user-images.githubusercontent.com/30840579/115578026-85dd6e00-a28a-11eb-899e-e765c2283354.png)
 
+**Flowchart of facial detection model using the python opencv library.
+![FaceGate Facial Detection Model](https://user-images.githubusercontent.com/30840579/116250318-3b00a200-a733-11eb-9665-5b5e3ce929da.png)
+
 **Early phase v0.1 GUI interface preliminary concept.**
 ![7A03015E-774F-4A9B-B80A-7AC8064BB808](https://user-images.githubusercontent.com/30840579/115437175-79e1a580-a1d1-11eb-9fe4-fc8cd8faf0ef.jpeg)
 
