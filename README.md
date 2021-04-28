@@ -23,6 +23,10 @@ FaceGate systems are highly customizable to fit the needs of the end user, but e
 3. Small device manager that takes instructions from the central PC, and can perform tasks such as opening and closing entryways, prompting users for more information, etc.
 4. Internal/External database that pulls logging/tracking information, which can be accesssed by authorized administrators in a clean and understandable format.
 
+**Follow important updates to the project at:**
+
+[![Trello Development Board](https://trello.com/b/S8d8hO4G.png)](https://trello.com/b/S8d8hO4G)
+
 ## DIAGRAMS/MODELS
 
 **System diagram chart categorizing each component of the system.**
