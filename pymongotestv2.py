@@ -21,8 +21,9 @@ def addstudent():
     print('How many students would you like to add?\n')
     runtime = int(input())
 
-    for x in range(runtime):
-        name = str(input('What is the name of student', x, '?'))
+    for x in range(runtime): 
+        print('What is the name of student', x, '?')
+        name = str(input())
         id_number = int(input('What is the ID of the student? '))
         print('Are they present? (True or False)\n')
         status = input()
